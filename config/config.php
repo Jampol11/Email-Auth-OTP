@@ -8,9 +8,9 @@ define('DB_PASS', '');
 // Email configuration (using PHPMailer)
 define('SMTP_HOST', 'smtp.gmail.com');
 define('SMTP_PORT', 587);
-define('SMTP_USER', 'anzed333@gmail.com'); // Replace with your Gmail
-define('SMTP_PASS', 'vgvpkredqbwzkxgi'); // Replace with your app password
-define('FROM_EMAIL', 'anzed333@gmail.com');
+define('SMTP_USER', 'imonggmailsir@gmail.com'); // Replace with your Gmail
+define('SMTP_PASS', 'imong_passwordpud'); // Replace with your app password
+define('FROM_EMAIL', 'imonggmailsir@gmail.com');
 define('FROM_NAME', 'Email Auth System');
 
 // Application settings
