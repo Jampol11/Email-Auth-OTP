@@ -1,0 +1,15 @@
+{
+    "name": "midterm/email-auth-system",
+    "description": "Email-based authentication system with MVC architecture",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    }
+}
